@@ -1,11 +1,11 @@
 {
   "name": "angular-uuid4",
-  "version": "0.3.1",
+  "version": "0.0.1",
   "dependencies": {},
-  "main": "angular-uuid4.js",
+  "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:monicao/angular-uuid4.git"
+    "url": "git@github.com:okhomenko/angular-uuid4.git"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
